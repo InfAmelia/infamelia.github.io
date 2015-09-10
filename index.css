@@ -14,10 +14,10 @@
    	}
 
 
-   	.portfolio-image {
+   	.img-thumbnail {
 
    			background-color: #FFF;
 
    	}
 
-   	.portfolio-image:hover img { opacity : .5; }
+   	.img-thumbnail:hover img { opacity : .5; }

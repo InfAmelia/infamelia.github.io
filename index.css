@@ -12,16 +12,3 @@
 
 
    	}
-
-
-   	.img-portfolio {
-
-   		transition: opacity .25s ease-in-out;
-
-   	}
-
-   	.img-portfolio:hover {
-
-   		opacity: .5;
-   		
-   	}

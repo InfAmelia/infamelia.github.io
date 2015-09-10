@@ -12,3 +12,12 @@
 
 
    	}
+
+
+   	.portfolio-image {
+
+   			background-color: #FFF;
+
+   	}
+
+   	.portfolio-image:hover img { opacity : .5; }

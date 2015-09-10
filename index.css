@@ -12,3 +12,17 @@
 
 
    	}
+
+
+   	.img-portfolio {
+
+   		transition: background-color 0.5s ease;
+   		background-color: red;
+
+   	}
+
+   	.img-portfolio:hover {
+
+   		background-color:green;	
+   		opacity: .5;
+   	}
